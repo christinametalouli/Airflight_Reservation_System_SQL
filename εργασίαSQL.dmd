@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="εργασίαSQL" id="EF168269-DB02-8E16-4A5B-21ADA8066282" version="3.5">
+<createdBy>Despoina</createdBy>
+<createdTime>2020-06-04 15:54:15 UTC</createdTime>
+<ownerDesignName>εργασίαSQL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EF168269-DB02-8E16-4A5B-21ADA8066282</designId>
+</OSDM_Design>
